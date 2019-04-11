@@ -65,7 +65,7 @@ module.exports = function EasyLog({
                    *      arguments: [
                    *        {
                    *          type: Identifier,
-                   *          name: a
+                   *          name: n
                    *        }
                    *      ]
                    *    }
